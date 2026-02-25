@@ -1,1 +1,4 @@
-test content
+User-agent: *
+Allow: /
+
+Sitemap: https://masseurspro.github.io/promasseurs-city-intent-guides/sitemap.xml
